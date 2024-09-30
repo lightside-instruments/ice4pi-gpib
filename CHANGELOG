@@ -1,4 +1,12 @@
-ice4pi-gpib (2.4) UNRELEASED; urgency=medium
+ice4pi-gpib (2.5) UNRELEASED; urgency=medium
+
+  * Upgraded to 8.0 KiCAD
+  * Fixed disconnected SRQ track
+  * Added missing mounting holes pair
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Mon, 30 Sep 2024 01:44:05 +0200
+
+ice4pi-gpib (2.4) jammy; urgency=medium
 
   * Initial release
 
